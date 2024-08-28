@@ -1,0 +1,34 @@
+[
+	{
+		"name": "Baeldung",
+		"area": "tech blogs",
+		"author": "Eugen",
+		"id": 32134,
+		"topics": [
+			"java",
+			"kotlin",
+			"cs",
+			"linux"
+		],
+		"address": {
+			"city": "Bucharest",
+			"country": "Romania"
+		}
+	},
+	{
+		"name": "Java",
+		"area": "Advanced",
+		"author": "Seria",
+		"id": 12345,
+		"topics": [
+			"java",
+			"Spring",
+			"JPA",
+			"linux"
+		],
+		"address": {
+			"city": "Pune",
+			"country": "India"
+		}
+	}
+]
